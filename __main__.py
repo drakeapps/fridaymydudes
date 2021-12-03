@@ -1,7 +1,6 @@
 """
 slack poster
 
-
 """
 
 import os
